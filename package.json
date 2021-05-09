@@ -1,0 +1,19 @@
+{
+  "name": "javascript_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devopsCodeNaresh/organization1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devopsCodeNaresh/organization1/issues"
+  },
+  "homepage": "https://github.com/devopsCodeNaresh/organization1#readme"
+}
